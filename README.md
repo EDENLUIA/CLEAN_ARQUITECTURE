@@ -16,7 +16,7 @@ API RESTful para solicitar, modificar y consultar permisos de empleados.
 
 
 ## Docker - Compose
-
+```yaml
 services:
 
   kafka:
@@ -69,7 +69,7 @@ services:
       - ./esdata:/usr/share/elasticsearch/data
     restart: unless-stopped
 
-
+```
 ## ✅ 6. Buenas prácticas (estándares)
 
 - ✅ **Separación de capas**: Application, Core, Infrastructure, WebApi

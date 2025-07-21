@@ -1,0 +1,602 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Repositorio\\Audit\\SlnAudit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD1DEA5-E1F8-45B4-A256-A2E7E3525917}|Audit.Test\\Audit.Test.csproj|h:\\repositorio\\audit\\slnaudit\\audit.test\\audit.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4CD1DEA5-E1F8-45B4-A256-A2E7E3525917}|Audit.Test\\Audit.Test.csproj|solutionrelative:audit.test\\audit.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD1DEA5-E1F8-45B4-A256-A2E7E3525917}|Audit.Test\\Audit.Test.csproj|h:\\repositorio\\audit\\slnaudit\\audit.test\\upadtepermissioncommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD1DEA5-E1F8-45B4-A256-A2E7E3525917}|Audit.Test\\Audit.Test.csproj|solutionrelative:audit.test\\upadtepermissioncommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD1DEA5-E1F8-45B4-A256-A2E7E3525917}|Audit.Test\\Audit.Test.csproj|h:\\repositorio\\audit\\slnaudit\\audit.test\\createpermissioncommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD1DEA5-E1F8-45B4-A256-A2E7E3525917}|Audit.Test\\Audit.Test.csproj|solutionrelative:audit.test\\createpermissioncommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E51C07-F3A8-4573-BDC3-E5DBBC205094}|Audit.Application\\Audit.Application.csproj|h:\\repositorio\\audit\\slnaudit\\audit.application\\permission\\query\\getallpermissionquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E51C07-F3A8-4573-BDC3-E5DBBC205094}|Audit.Application\\Audit.Application.csproj|solutionrelative:audit.application\\permission\\query\\getallpermissionquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E51C07-F3A8-4573-BDC3-E5DBBC205094}|Audit.Application\\Audit.Application.csproj|h:\\repositorio\\audit\\slnaudit\\audit.application\\permission\\cmd\\updatepermissioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E51C07-F3A8-4573-BDC3-E5DBBC205094}|Audit.Application\\Audit.Application.csproj|solutionrelative:audit.application\\permission\\cmd\\updatepermissioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31ECFA4A-0F8C-4342-9FF7-5752CAB3DB53}|Audit.Core\\Audit.Core.csproj|h:\\repositorio\\audit\\slnaudit\\audit.core\\common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31ECFA4A-0F8C-4342-9FF7-5752CAB3DB53}|Audit.Core\\Audit.Core.csproj|solutionrelative:audit.core\\common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B357E20D-B8D5-4576-87FE-AF9DA037793B}|Audit.Infrastructure\\Audit.Infrastructure.csproj|h:\\repositorio\\audit\\slnaudit\\audit.infrastructure\\repositories\\permissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B357E20D-B8D5-4576-87FE-AF9DA037793B}|Audit.Infrastructure\\Audit.Infrastructure.csproj|solutionrelative:audit.infrastructure\\repositories\\permissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E51C07-F3A8-4573-BDC3-E5DBBC205094}|Audit.Application\\Audit.Application.csproj|h:\\repositorio\\audit\\slnaudit\\audit.application\\permission\\query\\getpermissionbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E51C07-F3A8-4573-BDC3-E5DBBC205094}|Audit.Application\\Audit.Application.csproj|solutionrelative:audit.application\\permission\\query\\getpermissionbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31ECFA4A-0F8C-4342-9FF7-5752CAB3DB53}|Audit.Core\\Audit.Core.csproj|h:\\repositorio\\audit\\slnaudit\\audit.core\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31ECFA4A-0F8C-4342-9FF7-5752CAB3DB53}|Audit.Core\\Audit.Core.csproj|solutionrelative:audit.core\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD1DEA5-E1F8-45B4-A256-A2E7E3525917}|Audit.Test\\Audit.Test.csproj|h:\\repositorio\\audit\\slnaudit\\audit.test\\getallpermissionqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD1DEA5-E1F8-45B4-A256-A2E7E3525917}|Audit.Test\\Audit.Test.csproj|solutionrelative:audit.test\\getallpermissionqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E51C07-F3A8-4573-BDC3-E5DBBC205094}|Audit.Application\\Audit.Application.csproj|h:\\repositorio\\audit\\slnaudit\\audit.application\\permission\\cmd\\createpermissioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E51C07-F3A8-4573-BDC3-E5DBBC205094}|Audit.Application\\Audit.Application.csproj|solutionrelative:audit.application\\permission\\cmd\\createpermissioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B357E20D-B8D5-4576-87FE-AF9DA037793B}|Audit.Infrastructure\\Audit.Infrastructure.csproj|h:\\repositorio\\audit\\slnaudit\\audit.infrastructure\\repositories\\permissionelasticsearchrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B357E20D-B8D5-4576-87FE-AF9DA037793B}|Audit.Infrastructure\\Audit.Infrastructure.csproj|solutionrelative:audit.infrastructure\\repositories\\permissionelasticsearchrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31ECFA4A-0F8C-4342-9FF7-5752CAB3DB53}|Audit.Core\\Audit.Core.csproj|h:\\repositorio\\audit\\slnaudit\\audit.core\\interfaces\\ipermissionelasticsearchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31ECFA4A-0F8C-4342-9FF7-5752CAB3DB53}|Audit.Core\\Audit.Core.csproj|solutionrelative:audit.core\\interfaces\\ipermissionelasticsearchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0551DF-0CB3-48FF-AE1B-92B5BA9BC900}|Audit.Api\\Audit.Api.csproj|h:\\repositorio\\audit\\slnaudit\\audit.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0551DF-0CB3-48FF-AE1B-92B5BA9BC900}|Audit.Api\\Audit.Api.csproj|solutionrelative:audit.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B357E20D-B8D5-4576-87FE-AF9DA037793B}|Audit.Infrastructure\\Audit.Infrastructure.csproj|h:\\repositorio\\audit\\slnaudit\\audit.infrastructure\\serviceextension\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B357E20D-B8D5-4576-87FE-AF9DA037793B}|Audit.Infrastructure\\Audit.Infrastructure.csproj|solutionrelative:audit.infrastructure\\serviceextension\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31ECFA4A-0F8C-4342-9FF7-5752CAB3DB53}|Audit.Core\\Audit.Core.csproj|h:\\repositorio\\audit\\slnaudit\\audit.core\\interfaces\\ipermissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31ECFA4A-0F8C-4342-9FF7-5752CAB3DB53}|Audit.Core\\Audit.Core.csproj|solutionrelative:audit.core\\interfaces\\ipermissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD1DEA5-E1F8-45B4-A256-A2E7E3525917}|Audit.Test\\Audit.Test.csproj|h:\\repositorio\\audit\\slnaudit\\audit.test\\getpermissionbyidqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD1DEA5-E1F8-45B4-A256-A2E7E3525917}|Audit.Test\\Audit.Test.csproj|solutionrelative:audit.test\\getpermissionbyidqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0551DF-0CB3-48FF-AE1B-92B5BA9BC900}|Audit.Api\\Audit.Api.csproj|h:\\repositorio\\audit\\slnaudit\\audit.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D0551DF-0CB3-48FF-AE1B-92B5BA9BC900}|Audit.Api\\Audit.Api.csproj|solutionrelative:audit.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0551DF-0CB3-48FF-AE1B-92B5BA9BC900}|Audit.Api\\Audit.Api.csproj|h:\\repositorio\\audit\\slnaudit\\audit.api\\controllers\\permissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0551DF-0CB3-48FF-AE1B-92B5BA9BC900}|Audit.Api\\Audit.Api.csproj|solutionrelative:audit.api\\controllers\\permissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0551DF-0CB3-48FF-AE1B-92B5BA9BC900}|Audit.Api\\Audit.Api.csproj|h:\\repositorio\\audit\\slnaudit\\audit.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0551DF-0CB3-48FF-AE1B-92B5BA9BC900}|Audit.Api\\Audit.Api.csproj|solutionrelative:audit.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B357E20D-B8D5-4576-87FE-AF9DA037793B}|Audit.Infrastructure\\Audit.Infrastructure.csproj|h:\\repositorio\\audit\\slnaudit\\audit.infrastructure\\repositories\\producerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B357E20D-B8D5-4576-87FE-AF9DA037793B}|Audit.Infrastructure\\Audit.Infrastructure.csproj|solutionrelative:audit.infrastructure\\repositories\\producerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31ECFA4A-0F8C-4342-9FF7-5752CAB3DB53}|Audit.Core\\Audit.Core.csproj|h:\\repositorio\\audit\\slnaudit\\audit.core\\interfaces\\iproducerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31ECFA4A-0F8C-4342-9FF7-5752CAB3DB53}|Audit.Core\\Audit.Core.csproj|solutionrelative:audit.core\\interfaces\\iproducerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B357E20D-B8D5-4576-87FE-AF9DA037793B}|Audit.Infrastructure\\Audit.Infrastructure.csproj|h:\\repositorio\\audit\\slnaudit\\audit.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B357E20D-B8D5-4576-87FE-AF9DA037793B}|Audit.Infrastructure\\Audit.Infrastructure.csproj|solutionrelative:audit.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B357E20D-B8D5-4576-87FE-AF9DA037793B}|Audit.Infrastructure\\Audit.Infrastructure.csproj|h:\\repositorio\\audit\\slnaudit\\audit.infrastructure\\audit.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B357E20D-B8D5-4576-87FE-AF9DA037793B}|Audit.Infrastructure\\Audit.Infrastructure.csproj|solutionrelative:audit.infrastructure\\audit.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B357E20D-B8D5-4576-87FE-AF9DA037793B}|Audit.Infrastructure\\Audit.Infrastructure.csproj|h:\\repositorio\\audit\\slnaudit\\audit.infrastructure\\dbcontextclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B357E20D-B8D5-4576-87FE-AF9DA037793B}|Audit.Infrastructure\\Audit.Infrastructure.csproj|solutionrelative:audit.infrastructure\\dbcontextclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31ECFA4A-0F8C-4342-9FF7-5752CAB3DB53}|Audit.Core\\Audit.Core.csproj|h:\\repositorio\\audit\\slnaudit\\audit.core\\common\\operationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31ECFA4A-0F8C-4342-9FF7-5752CAB3DB53}|Audit.Core\\Audit.Core.csproj|solutionrelative:audit.core\\common\\operationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E51C07-F3A8-4573-BDC3-E5DBBC205094}|Audit.Application\\Audit.Application.csproj|h:\\repositorio\\audit\\slnaudit\\audit.application\\audit.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B4E51C07-F3A8-4573-BDC3-E5DBBC205094}|Audit.Application\\Audit.Application.csproj|solutionrelative:audit.application\\audit.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0551DF-0CB3-48FF-AE1B-92B5BA9BC900}|Audit.Api\\Audit.Api.csproj|h:\\repositorio\\audit\\slnaudit\\audit.api\\audit.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D0551DF-0CB3-48FF-AE1B-92B5BA9BC900}|Audit.Api\\Audit.Api.csproj|solutionrelative:audit.api\\audit.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31ECFA4A-0F8C-4342-9FF7-5752CAB3DB53}|Audit.Core\\Audit.Core.csproj|h:\\repositorio\\audit\\slnaudit\\audit.core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31ECFA4A-0F8C-4342-9FF7-5752CAB3DB53}|Audit.Core\\Audit.Core.csproj|solutionrelative:audit.core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E51C07-F3A8-4573-BDC3-E5DBBC205094}|Audit.Application\\Audit.Application.csproj|h:\\repositorio\\audit\\slnaudit\\audit.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E51C07-F3A8-4573-BDC3-E5DBBC205094}|Audit.Application\\Audit.Application.csproj|solutionrelative:audit.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0551DF-0CB3-48FF-AE1B-92B5BA9BC900}|Audit.Api\\Audit.Api.csproj|h:\\repositorio\\audit\\slnaudit\\audit.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D0551DF-0CB3-48FF-AE1B-92B5BA9BC900}|Audit.Api\\Audit.Api.csproj|solutionrelative:audit.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0551DF-0CB3-48FF-AE1B-92B5BA9BC900}|Audit.Api\\Audit.Api.csproj|h:\\repositorio\\audit\\slnaudit\\audit.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D0551DF-0CB3-48FF-AE1B-92B5BA9BC900}|Audit.Api\\Audit.Api.csproj|solutionrelative:audit.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31ECFA4A-0F8C-4342-9FF7-5752CAB3DB53}|Audit.Core\\Audit.Core.csproj|h:\\repositorio\\audit\\slnaudit\\audit.core\\permissiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31ECFA4A-0F8C-4342-9FF7-5752CAB3DB53}|Audit.Core\\Audit.Core.csproj|solutionrelative:audit.core\\permissiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D0551DF-0CB3-48FF-AE1B-92B5BA9BC900}|Audit.Api\\Audit.Api.csproj|h:\\repositorio\\audit\\slnaudit\\audit.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8D0551DF-0CB3-48FF-AE1B-92B5BA9BC900}|Audit.Api\\Audit.Api.csproj|solutionrelative:audit.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreatePermissionCommandHandlerTests.cs",
+              "DocumentMoniker": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Test\\CreatePermissionCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "Audit.Test\\CreatePermissionCommandHandlerTests.cs",
+              "ToolTip": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Test\\CreatePermissionCommandHandlerTests.cs*",
+              "RelativeToolTip": "Audit.Test\\CreatePermissionCommandHandlerTests.cs*",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwEMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T18:22:45.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdatePermissionCommand.cs",
+              "DocumentMoniker": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Application\\permission\\cmd\\UpdatePermissionCommand.cs",
+              "RelativeDocumentMoniker": "Audit.Application\\permission\\cmd\\UpdatePermissionCommand.cs",
+              "ToolTip": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Application\\permission\\cmd\\UpdatePermissionCommand.cs",
+              "RelativeToolTip": "Audit.Application\\permission\\cmd\\UpdatePermissionCommand.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T05:10:54.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetAllPermissionQuery.cs",
+              "DocumentMoniker": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Application\\permission\\query\\GetAllPermissionQuery.cs",
+              "RelativeDocumentMoniker": "Audit.Application\\permission\\query\\GetAllPermissionQuery.cs",
+              "ToolTip": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Application\\permission\\query\\GetAllPermissionQuery.cs",
+              "RelativeToolTip": "Audit.Application\\permission\\query\\GetAllPermissionQuery.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wCcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:31:37.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpadtePermissionCommandHandlerTests.cs",
+              "DocumentMoniker": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Test\\UpadtePermissionCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "Audit.Test\\UpadtePermissionCommandHandlerTests.cs",
+              "ToolTip": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Test\\UpadtePermissionCommandHandlerTests.cs*",
+              "RelativeToolTip": "Audit.Test\\UpadtePermissionCommandHandlerTests.cs*",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAqwEIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T18:25:56.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Audit.Test",
+              "DocumentMoniker": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Test\\Audit.Test.csproj",
+              "RelativeDocumentMoniker": "Audit.Test\\Audit.Test.csproj",
+              "ToolTip": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Test\\Audit.Test.csproj",
+              "RelativeToolTip": "Audit.Test\\Audit.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-21T17:38:24.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PermissionRepository.cs",
+              "DocumentMoniker": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Infrastructure\\Repositories\\PermissionRepository.cs",
+              "RelativeDocumentMoniker": "Audit.Infrastructure\\Repositories\\PermissionRepository.cs",
+              "ToolTip": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Infrastructure\\Repositories\\PermissionRepository.cs",
+              "RelativeToolTip": "Audit.Infrastructure\\Repositories\\PermissionRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvy8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T20:32:48.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Core\\Common\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Audit.Core\\Common\\ApiResponse.cs",
+              "ToolTip": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Core\\Common\\ApiResponse.cs",
+              "RelativeToolTip": "Audit.Core\\Common\\ApiResponse.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T21:05:39.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetPermissionByIdQuery.cs",
+              "DocumentMoniker": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Application\\permission\\query\\GetPermissionByIdQuery.cs",
+              "RelativeDocumentMoniker": "Audit.Application\\permission\\query\\GetPermissionByIdQuery.cs",
+              "ToolTip": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Application\\permission\\query\\GetPermissionByIdQuery.cs",
+              "RelativeToolTip": "Audit.Application\\permission\\query\\GetPermissionByIdQuery.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:36:18.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Core\\Permission.cs",
+              "RelativeDocumentMoniker": "Audit.Core\\Permission.cs",
+              "ToolTip": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Core\\Permission.cs",
+              "RelativeToolTip": "Audit.Core\\Permission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIAwwA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T19:29:38.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetAllPermissionQueryHandlerTests.cs",
+              "DocumentMoniker": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Test\\GetAllPermissionQueryHandlerTests.cs",
+              "RelativeDocumentMoniker": "Audit.Test\\GetAllPermissionQueryHandlerTests.cs",
+              "ToolTip": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Test\\GetAllPermissionQueryHandlerTests.cs",
+              "RelativeToolTip": "Audit.Test\\GetAllPermissionQueryHandlerTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwDUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T17:41:06.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreatePermissionCommand.cs",
+              "DocumentMoniker": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Application\\permission\\cmd\\CreatePermissionCommand.cs",
+              "RelativeDocumentMoniker": "Audit.Application\\permission\\cmd\\CreatePermissionCommand.cs",
+              "ToolTip": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Application\\permission\\cmd\\CreatePermissionCommand.cs",
+              "RelativeToolTip": "Audit.Application\\permission\\cmd\\CreatePermissionCommand.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBEAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T04:47:43.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PermissionElasticsearchRepository .cs",
+              "DocumentMoniker": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Infrastructure\\Repositories\\PermissionElasticsearchRepository .cs",
+              "RelativeDocumentMoniker": "Audit.Infrastructure\\Repositories\\PermissionElasticsearchRepository .cs",
+              "ToolTip": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Infrastructure\\Repositories\\PermissionElasticsearchRepository .cs",
+              "RelativeToolTip": "Audit.Infrastructure\\Repositories\\PermissionElasticsearchRepository .cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T21:06:27.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPermissionElasticsearchRepository.cs",
+              "DocumentMoniker": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Core\\Interfaces\\IPermissionElasticsearchRepository.cs",
+              "RelativeDocumentMoniker": "Audit.Core\\Interfaces\\IPermissionElasticsearchRepository.cs",
+              "ToolTip": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Core\\Interfaces\\IPermissionElasticsearchRepository.cs",
+              "RelativeToolTip": "Audit.Core\\Interfaces\\IPermissionElasticsearchRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T21:04:45.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Audit.Api\\Program.cs",
+              "ToolTip": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Api\\Program.cs",
+              "RelativeToolTip": "Audit.Api\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T18:59:35.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServiceExtension.cs",
+              "DocumentMoniker": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Infrastructure\\ServiceExtension\\ServiceExtension.cs",
+              "RelativeDocumentMoniker": "Audit.Infrastructure\\ServiceExtension\\ServiceExtension.cs",
+              "ToolTip": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Infrastructure\\ServiceExtension\\ServiceExtension.cs",
+              "RelativeToolTip": "Audit.Infrastructure\\ServiceExtension\\ServiceExtension.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T19:37:56.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IPermissionRepository.cs",
+              "DocumentMoniker": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Core\\Interfaces\\IPermissionRepository.cs",
+              "RelativeDocumentMoniker": "Audit.Core\\Interfaces\\IPermissionRepository.cs",
+              "ToolTip": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Core\\Interfaces\\IPermissionRepository.cs",
+              "RelativeToolTip": "Audit.Core\\Interfaces\\IPermissionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T20:33:35.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetPermissionByIdQueryHandlerTests.cs",
+              "DocumentMoniker": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Test\\GetPermissionByIdQueryHandlerTests.cs",
+              "RelativeDocumentMoniker": "Audit.Test\\GetPermissionByIdQueryHandlerTests.cs",
+              "ToolTip": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Test\\GetPermissionByIdQueryHandlerTests.cs",
+              "RelativeToolTip": "Audit.Test\\GetPermissionByIdQueryHandlerTests.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwC4AAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T17:55:28.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Audit.Api\\appsettings.json",
+              "ToolTip": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Api\\appsettings.json",
+              "RelativeToolTip": "Audit.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-20T19:00:02.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PermissionController.cs",
+              "DocumentMoniker": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Api\\Controllers\\PermissionController.cs",
+              "RelativeDocumentMoniker": "Audit.Api\\Controllers\\PermissionController.cs",
+              "ToolTip": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Api\\Controllers\\PermissionController.cs",
+              "RelativeToolTip": "Audit.Api\\Controllers\\PermissionController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T21:11:38.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Audit.Api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Audit.Api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T19:00:02.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProducerRepository.cs",
+              "DocumentMoniker": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Infrastructure\\Repositories\\ProducerRepository.cs",
+              "RelativeDocumentMoniker": "Audit.Infrastructure\\Repositories\\ProducerRepository.cs",
+              "ToolTip": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Infrastructure\\Repositories\\ProducerRepository.cs",
+              "RelativeToolTip": "Audit.Infrastructure\\Repositories\\ProducerRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowCAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T13:07:26.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IProducerRepository.cs",
+              "DocumentMoniker": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Core\\Interfaces\\IProducerRepository.cs",
+              "RelativeDocumentMoniker": "Audit.Core\\Interfaces\\IProducerRepository.cs",
+              "ToolTip": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Core\\Interfaces\\IProducerRepository.cs",
+              "RelativeToolTip": "Audit.Core\\Interfaces\\IProducerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T13:12:07.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Audit.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Audit.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T20:37:10.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Audit.Infrastructure.csproj",
+              "DocumentMoniker": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Infrastructure\\Audit.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Audit.Infrastructure\\Audit.Infrastructure.csproj",
+              "ToolTip": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Infrastructure\\Audit.Infrastructure.csproj",
+              "RelativeToolTip": "Audit.Infrastructure\\Audit.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-20T19:25:35.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DbContextClass.cs",
+              "DocumentMoniker": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Infrastructure\\DbContextClass.cs",
+              "RelativeDocumentMoniker": "Audit.Infrastructure\\DbContextClass.cs",
+              "ToolTip": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Infrastructure\\DbContextClass.cs",
+              "RelativeToolTip": "Audit.Infrastructure\\DbContextClass.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T19:35:25.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OperationEvent.cs",
+              "DocumentMoniker": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Core\\Common\\OperationEvent.cs",
+              "RelativeDocumentMoniker": "Audit.Core\\Common\\OperationEvent.cs",
+              "ToolTip": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Core\\Common\\OperationEvent.cs",
+              "RelativeToolTip": "Audit.Core\\Common\\OperationEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T13:08:36.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Audit.Application.csproj",
+              "DocumentMoniker": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Application\\Audit.Application.csproj",
+              "RelativeDocumentMoniker": "Audit.Application\\Audit.Application.csproj",
+              "ToolTip": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Application\\Audit.Application.csproj",
+              "RelativeToolTip": "Audit.Application\\Audit.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-20T20:59:34.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Audit.Api.csproj",
+              "DocumentMoniker": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Api\\Audit.Api.csproj",
+              "RelativeDocumentMoniker": "Audit.Api\\Audit.Api.csproj",
+              "ToolTip": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Api\\Audit.Api.csproj",
+              "RelativeToolTip": "Audit.Api\\Audit.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-20T21:13:11.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Audit.Core\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Audit.Core\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T20:35:44.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Audit.Application\\DependencyInjection.cs",
+              "ToolTip": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Audit.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T21:23:05.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Api\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Audit.Api\\WeatherForecast.cs",
+              "ToolTip": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Api\\WeatherForecast.cs",
+              "RelativeToolTip": "Audit.Api\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T18:59:54.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Audit.Api\\Properties\\launchSettings.json",
+              "ToolTip": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Audit.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-20T19:00:07.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PermissionType.cs",
+              "DocumentMoniker": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Core\\PermissionType.cs",
+              "RelativeDocumentMoniker": "Audit.Core\\PermissionType.cs",
+              "ToolTip": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Core\\PermissionType.cs",
+              "RelativeToolTip": "Audit.Core\\PermissionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T19:31:06.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Api\\Dockerfile",
+              "RelativeDocumentMoniker": "Audit.Api\\Dockerfile",
+              "ToolTip": "H:\\Repositorio\\Audit\\SlnAudit\\Audit.Api\\Dockerfile",
+              "RelativeToolTip": "Audit.Api\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-20T19:01:53.07Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
